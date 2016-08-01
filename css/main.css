@@ -1,0 +1,63 @@
+header{
+  background-color: orange;
+}
+.heading h1,h3{
+  max-width: 1000px;
+  padding: 6px 20px;
+  margin: 0 auto;
+}
+main {
+  padding-top: 40px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+  height: 400px;
+  text-align: left;
+ 
+   border: 1px solid #D3D3D3;
+}
+.role{
+  background-color: white;
+  height: 100px;
+  border: 1px solid #D3D3D3;
+  font-size: 18px;
+  font-weight: 500;
+  padding-left: 15px;
+  line-height: 25px;
+}
+
+.rey {
+   background-image: url('../images/rey_square.png');
+   height: 300px;  
+   background-size: cover;
+}
+
+.finn{
+  background-image: url('../images/finn_square.png');
+  height: 300px;  
+  background-size: cover;
+}
+.kylo{
+  background-image: url('../images/kylo_square.png');
+  height: 300px;  
+  background-size: cover;
+}
+.poe{
+  background-image: url('../images/poe_square.png');
+  height: 300px;  
+  background-size: cover;
+}
+.chewbacca{
+  background-image: url('../images/chewbacca_square.png');
+  height: 300px;  
+  background-size: cover;
+}
+.yoda{
+  background-image: url('../images/yoda_square.png');
+  height: 300px;  
+  background-size: cover;
+}
